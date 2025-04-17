@@ -1,0 +1,1 @@
+// Backend principal com JWT e controle de acesso (simulado)

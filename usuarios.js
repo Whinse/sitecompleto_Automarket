@@ -1,0 +1,1 @@
+// Rotas de edição, remoção e listagem protegidas por JWT
